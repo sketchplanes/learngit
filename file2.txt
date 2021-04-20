@@ -1,1 +1,4 @@
-2
+learn过程中的问题
+
+git bash 全屏无法退出
+git bash 暂时多行输入的打开与停止
